@@ -1,0 +1,60 @@
+Parkinson Patient
+        ↓
+Collect Tremor Data
+(Open Dataset + Real Patients)
+        ↓
+Signal Analysis
+(Time Domain + Frequency Domain)
+        ↓
+FFT Analysis
+        ↓
+Extract Parkinsonian Frequencies
+(4–8 Hz Mainly)
+        ↓
+Filtering Stage
+(Remove Normal Motion / Noise)
+        ↓
+Build Dynamic Mathematical Model
+(Hand + Motor + Flywheel + Gyroscope)
+        ↓
+Define Coordinate Frames
+{O}, {W}, {G}, {M}
+        ↓
+Kinematics Analysis
+(Position, Velocity, Angular Velocity)
+        ↓
+Energy Modeling
+(Kinetic + Potential Energy)
+        ↓
+Apply Lagrange Equations
+        ↓
+Derive Equations of Motion
+(θ and φ dynamics)
+        ↓
+Coupled Gyroscopic System
+        ↓
+Linearization Around Equilibrium
+(xeq = [0 0 0 0])
+        ↓
+State Space Representation
+ẋ = Ax + Bu
+        ↓
+Control System Design
+(Precession Axis Control)
+        ↓
+Gyroscopic Torque Generation
+(Tg = Iyf Ω θ̇)
+        ↓
+Mechanical Wearable Design
+(Flywheel + BLDC Motor + Gimbal)
+        ↓
+3D Simulation
+        ↓
+Experimental Prototype
+        ↓
+Tremor Suppression Testing
+(2–6 Hz)
+        ↓
+Evaluate Performance
+        ↓
+~92.6% Tremor Reduction
